@@ -42,10 +42,23 @@
 
 ## 2 Planen
 
-| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
-| ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| AP-№ | Frist | Zuständig | Beschreibung |
+| ---- | ----- | --------- | ------------ |
+| 1.A  | 23.08.2023 |Lektion 1 des Codecademy Kurses abschliessen| M.S |
+| 2  | 23.08.23023 |Informieren des Projekts | alle |     
+| 3  | 23.08.23023 | Mock-up | alle|  
+| 4  | 23.08.23023 | user stories |              |  
+| 5  |       |           |              |  
+| 6  |       |           |              |  
+| 7  |       |           |              |  
+| 8  |       |           |              |  
+| 9  |       |           |              |  
+| 10  |       |           |              |  
+| ...  |       |           |              |  
+| ...  |       |           |              |  
+| ...  |       |           |              |  
+| ...  |       |           |              |  
+
 
 Total: 
 
