@@ -44,20 +44,15 @@
 
 | AP-№ | Frist | Zuständig | Beschreibung |
 | ---- | ----- | --------- | ------------ |
-| 1.A  | 23.08.2023 |Lektion 1 des Codecademy Kurses abschliessen| M.S |
-| 2  | 23.08.23023 |Informieren des Projekts | alle |     
-| 3  | 23.08.23023 | Mock-up | alle|  
-| 4  | 23.08.23023 | user stories |              |  
-| 5  |       |           |              |  
-| 6  |       |           |              |  
-| 7  |       |           |              |  
-| 8  |       |           |              |  
-| 9  |       |           |              |  
-| 10  |       |           |              |  
-| ...  |       |           |              |  
-| ...  |       |           |              |  
-| ...  |       |           |              |  
-| ...  |       |           |              |  
+| 1.A  | 16.08.2023 |Lektion 1 des Codecademy Kurses abschliessen| M.S |
+| 2  | 16.08.23023 |Informieren des Projekts | alle |     
+| 3  | 16.08.23023 | Mock-up / aufbau | alle|  
+| 4  | 16.08.23023 | user stories | alle |  
+| 5  | 23.08.23023 | Erfüllen des UserStories| alle |  
+| 6  | 30.08.23023 | Erfüllen des UserStories | alle|  
+| 7  | 06.09.23023 | Abschliessen des Projekts| alle|  
+| 8  | 06.09.2023 | Testen und Kontrollieren| alle |  
+| 9  | 06.09.2023 | Portfolioeintrag | jede Einzeln |  
 
 
 Total: 
