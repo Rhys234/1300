@@ -20,10 +20,19 @@
 
 ### 1.2 User Stories
 
-| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
-| ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| US-№ | Beschreibung                       |
+| ---- | ---------------------------------- |
+| 1    | Der Computer speichert eine Zufallszahl zwischen und mit 1 bis 100 als Geheimzahl.|
+| 2  | Der Benutzer kann Zahlen raten.|
+| 3  | Für jede der geratenen Zahlen gibt der Computer einen Hinweis aus: |
+| 4  | Die geratene Zahl ist niedriger als die Geheimzahl. |
+| 5  | Die geratene Zahl ist grösser als die Geheimzahl.|
+| 6  | Die Geheimzahl wurde erraten.|
+| 7  | Wenn die Geheimzahl erraten wurde, soll die Anzahl der Rateversuche ausgegeben werden.|
+| 8  | Das Programm soll mit Fehleingaben umgehen oder sie vermeiden können.|
+| 9  | Erweiterungen, die über diese Anforderungen hinausgehen, sind möglich und willkommen.|
+
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
