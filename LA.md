@@ -31,6 +31,8 @@
 | 7  | Wenn die Geheimzahl erraten wurde, soll die Anzahl der Rateversuche ausgegeben werden.|
 | 8  | Das Programm soll mit Fehleingaben umgehen oder sie vermeiden können.|
 | 9  | Erweiterungen, die über diese Anforderungen hinausgehen, sind möglich und willkommen.|
+| 10 | Es soll gefragt werden, ob man wieder Spielen will. |
+
 
 
 
@@ -40,9 +42,13 @@
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Der Computer speichert eine Zufallszahl zwischen und mit 1 bis 100 als Geheimzahl | Eine beliebige Zahl | Sagen ob es die zufällig generierte Zahl ist oder ob sie zu hoch ist oder zu tief |
-| 7.1  | Wenn die Geheimzahl erraten wurde, soll die Anzahl der Rateversuche ausgegeben werden. | Richtige Zahl erraten | Anzahl wie viel Versuche man gebraucht hat um die Zahl zu erraten. |
-| 8.1  | Das Programm soll mit Fehleingaben umgehen oder sie vermeiden können.| Keine Zahlen | Sagt, dass die Eingabe nicht gültig ist. |
+| 1.1  | Das Programm started und Computer generiert eine Zufallszahl zwischen und mit 1 bis 100 als Geheimzahl | - | Computer begrüsst den Spieler |
+| 2.1  | Programm fragt: Geben sie eine Zahl ein | eingabe Zahl | Programm sagt ob das Zahl zu hoch oder tief ist. |
+| 6.1  | Spieler hat richtige Zahl erraten und gratuliert. | eingabe richtige Zahl | Gratulation. Sie haben den richgtige Zahl erraten. |
+| 7.1  | Wenn die Geheimzahl richitg erraten wurde, zählt anzahl Versuche. | - |  Gratulation. Sie haben den richgtige Zahl erraten. Ihre Anzahl versuche: ... |
+| 8.1  | Das spielt geht weiter.| gebt Buchstaben ein | Sagt, dass die Eingabe nicht gültig ist. |
+| 10.1 | Nach dem richtig erraten des Spiels frag das Programm ob man weiter spielen will | y | Das Spiel beginnt von vorne. |
+| 10.2 | Nach dem richtig erraten des Spiels frag das Programm ob man weiter spielen will | n | Das Program schliesst. |
 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
