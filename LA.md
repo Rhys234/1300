@@ -77,6 +77,7 @@ Total:
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | 
+| ---- | ----- | --------- |
 | 1.A  | 16.08.2023 | Alle |
 | 2.A  | 16.08.2023 | ALle |
 | 3.A  | | |
