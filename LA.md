@@ -54,14 +54,14 @@
 | AP-№ | Frist | Zuständig | Beschreibung |
 | ---- | ----- | --------- | ------------ |
 | 1.A  | 16.08.2023 |Lektion 1 des Codecademy Kurses abschliessen| M.S |
-| 2  | 16.08.23023 |Informieren des Projekts | alle |     
-| 3  | 16.08.23023 | Mock-up / aufbau | alle|  
-| 4  | 16.08.23023 | user stories | alle |  
-| 5  | 23.08.23023 | Erfüllen des UserStories| alle |  
-| 6  | 30.08.23023 | Erfüllen des UserStories | alle|  
-| 7  | 06.09.23023 | Abschliessen des Projekts| alle|  
-| 8  | 06.09.2023 | Testen und Kontrollieren| alle |  
-| 9  | 06.09.2023 | Portfolioeintrag | jede Einzeln |  
+| 2.A  | 16.08.23023 |Informieren des Projekts | alle |     
+| 3.A | 16.08.23023 | Mock-up / aufbau | alle|  
+| 4.A  | 16.08.23023 | user stories | alle |  
+| 5.A  | 23.08.23023 | Erfüllen des UserStories| alle |  
+| 6.A  | 30.08.23023 | Erfüllen des UserStories | alle|  
+| 7.A  | 06.09.23023 | Abschliessen des Projekts| alle|  
+| 8.A  | 06.09.2023 | Testen und Kontrollieren| alle |  
+| 9.A  | 06.09.2023 | Portfolioeintrag | jede Einzeln |  
 
 
 Total: 
@@ -76,10 +76,14 @@ Total:
 
 ## 4 Realisieren
 
-| AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
-| ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| AP-№ | Datum | Zuständig | 
+| 1.A  | 16.08.2023 | Alle |
+| 2.A  | 16.08.2023 | ALle |
+| 3.A  | | |
+| 4.A  | | ALle |
+| 5.A  | | ALle |
+| 6.A  | | ALle |
+
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
