@@ -51,17 +51,21 @@
 
 ## 2 Planen
 
-| AP-№ | Frist | Zuständig | Beschreibung |
+| AP-№ | Frist | Beschreibung | Zuständig |
 | ---- | ----- | --------- | ------------ |
 | 1.A  | 16.08.2023 |Lektion 1 des Codecademy Kurses abschliessen| M.S |
 | 2.A  | 16.08.23023 |Informieren des Projekts | alle |     
 | 3.A | 16.08.23023 | Mock-up / aufbau | alle|  
 | 4.A  | 16.08.23023 | user stories | alle |  
-| 5.A  | 23.08.23023 | Erfüllen des UserStories| alle |  
-| 6.A  | 30.08.23023 | Erfüllen des UserStories | alle|  
-| 7.A  | 06.09.23023 | Abschliessen des Projekts| alle|  
-| 8.A  | 06.09.2023 | Testen und Kontrollieren| alle |  
-| 9.A  | 06.09.2023 | Portfolioeintrag | jede Einzeln |  
+| 5.A  | 23.08.23023 | Zufallszahl generieren| Carina |  
+| 6.A  | 23.08.23023 | If Else Clause erstellen| Sathana |
+| 6.B  | 23.08.23023 | speichern des eingabe Spielers| Sathana |
+| 7.A  | 23.08.23023 | Try Catch | Carina | 
+| 8.A  | 23.08.23023 | Code für damit man wieder spielen kann| Sathana | 
+| 9.A  | 23.08.23023 | Anzahl Versuche generieren| Carina | 
+| 10.A  | 23.08.23023 | Farbe erstellen| Carina |   
+| 11.A  | 06.09.2023 | Testen und Kontrollieren| alle |  
+| 12.A  | 06.09.2023 | Portfolioeintrag | jede Einzeln |  
 
 
 Total: 
