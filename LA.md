@@ -51,21 +51,21 @@
 
 ## 2 Planen
 
-| AP-№ | Frist | Beschreibung | Zuständig |
+| AP-№ | Frist | Beschreibung | Zuständig || geplante Zeit | 
 | ---- | ----- | --------- | ------------ |
-| 1.A  | 16.08.2023 |Lektion 1 des Codecademy Kurses abschliessen| M.S |
-| 2.A  | 16.08.23023 |Informieren des Projekts | alle |     
-| 3.A | 16.08.23023 | Mock-up / aufbau | alle|  
-| 4.A  | 16.08.23023 | user stories | alle |  
-| 5.A  | 23.08.23023 | Zufallszahl generieren| Carina |  
-| 6.A  | 23.08.23023 | If Else Clause erstellen| Sathana |
-| 6.B  | 23.08.23023 | speichern des eingabe Spielers| Sathana |
-| 7.A  | 23.08.23023 | Try Catch | Carina | 
-| 8.A  | 23.08.23023 | Code für damit man wieder spielen kann| Sathana | 
-| 9.A  | 23.08.23023 | Anzahl Versuche generieren| Carina | 
-| 10.A  | 23.08.23023 | Farbe erstellen| Carina |   
-| 11.A  | 06.09.2023 | Testen und Kontrollieren| alle |  
-| 12.A  | 06.09.2023 | Portfolioeintrag | jede Einzeln |  
+| 1.A  | 16.08.2023 |Lektion 1 des Codecademy Kurses abschliessen| M.S | 40 min |
+| 2.A  | 16.08.2023 |Informieren des Projekts | alle | 40 min |
+| 3.A | 16.08.2023 | Mock-up / aufbau | alle|  20 min |
+| 4.A  | 16.08.2023 | user stories | alle |  20 min |
+| 5.A  | 23.08.2023 | Zufallszahl generieren| Carina |  20 min |
+| 6.A  | 23.08.2023 | If Else Clause erstellen| Sathana | 30 min |
+| 6.B  | 23.08.2023 | speichern des eingabe Spielers| Sathana | 15 min |
+| 7.A  | 23.08.2023 | Try Catch | Carina | 20 min |
+| 8.A  | 23.08.2023 | Code für damit man wieder spielen kann| Sathana | 15 min |
+| 9.A  | 23.08.2023 | Anzahl Versuche generieren| Carina | 20 min |
+| 10.A  | 23.08.2023 | Farbe erstellen| Carina |   10 min |
+| 11.A  | 06.09.2023 | Testen und Kontrollieren| alle |  15 min |
+| 12.A  | 06.09.2023 | Portfolioeintrag | jede Einzeln |  120 min |
 
 
 Total: 
@@ -80,14 +80,21 @@ Total:
 
 ## 4 Realisieren
 
-| AP-№ | Datum | Zuständig | 
-| ---- | ----- | --------- |
-| 1.A  | 16.08.2023 | Alle |
-| 2.A  | 16.08.2023 | ALle |
-| 3.A  | | |
-| 4.A  | | ALle |
-| 5.A  | | ALle |
-| 6.A  | | ALle |
+| AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
+| ---- | ----- | --------- | ------------- | ----------------- |
+| 1.A  | 16.08.2023 | Alle | 40 min | 50 min|
+| 2.A  | 16.08.2023 | alle | 40 min | 35 min |
+| 3.A  | 16.08.2023 | alle | 20 min | 20 min |
+| 4.A  | 16.08.2023 | alle | 20 min | 20 min |
+| 5.A  | 23.08.2023 | Carina | 25 min | 20 min |
+| 6.A  | 23.08.2023 | Sathana | 30 min | 25 min |
+| 6.b  | 23.08.2023 | Sathana | 15 min | 15 min |
+| 7.A  | 23.08.2023 | Carina | 20 min | 20 min |
+| 8.A  | 23.08.2023 | Sathana | 15 min | 15 min |
+| 9.A  | 23.08.2023 | Carina | 20 min | 10 min |
+| 10.A  | 23.08.2023 | Carina | 10 min | 10 min |
+| 11.A  | | alle | 15 min |     |
+| 12.A  | | alle | 120 min |    |
 
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
