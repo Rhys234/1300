@@ -2,19 +2,21 @@
 
 ☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+✍️ Sathana Suganthasri und Carina Sutter
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
 |       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| 16.08.2023 | 0.0.1   | User Story fertig erstellt.|
+| 30.08.2023 | 0.0.2   | Das Projekt fertig erstellt |
 
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
 ✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Der Spieler kann Zahlen erraten, der Computer gespeichert hatte. 
 
 ✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
 
@@ -33,9 +35,6 @@
 | 9  | Erweiterungen, die über diese Anforderungen hinausgehen, sind möglich und willkommen.|
 | 10 | Es soll gefragt werden, ob man wieder Spielen will. |
 
-
-
-
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
@@ -53,9 +52,6 @@
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
-### 1.4 Diagramme
-
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
 
 ## 2 Planen
 
@@ -72,7 +68,7 @@
 | 8.A  | 23.08.2023 | Code für damit man wieder spielen kann| Sathana | 15 min |
 | 9.A  | 23.08.2023 | Anzahl Versuche generieren| Carina | 20 min |
 | 10.A  | 23.08.2023 | Farbe erstellen| Carina |   10 min |
-| 11.A  | 06.09.2023 | Testen und Kontrollieren| alle |  15 min |
+| 11.A  | 30.09.2023 | Testen und Kontrollieren| alle |  15 min |
 | 12.A  | 06.09.2023 | Portfolioeintrag | jede Einzeln |  120 min |
 
 
@@ -84,7 +80,7 @@ Total:
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+-
 
 ## 4 Realisieren
 
@@ -101,7 +97,7 @@ Total:
 | 8.A  | 23.08.2023 | Sathana | 15 min | 15 min |
 | 9.A  | 23.08.2023 | Carina | 20 min | 10 min |
 | 10.A  | 23.08.2023 | Carina | 10 min | 10 min |
-| 11.A  | | alle | 15 min |     |
+| 11.A  | 30.08.2023 | Sathana | 15 min | 15min |
 | 12.A  | | alle | 120 min |    |
 
 
@@ -111,10 +107,16 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 30.08.2023 | OK | Sathana |
+| 2.1  | 30.08.2023 | OK | Sathana |
+| 6.1  | 30.08.2023 | OK | Sathana |
+| 7.1  | 30.08.2023 | OK | Sathana |
+| 8.1  | 30.08.2023 | OK | Sathana |
+| 10.1  | 30.08.2023 | OK | Sathana |
+| 10.1  | 30.08.2023 | OK | Sathana |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+
+Alles funktioniert Tip-Top. Keine Fehlfunktionen. 
 
 ## 6 Auswerten
 
