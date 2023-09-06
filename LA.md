@@ -41,7 +41,7 @@ Der Spieler kann Zahlen erraten, der Computer gespeichert hatte.
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Das Programm started und Computer generiert eine Zufallszahl zwischen und mit 1 bis 100 als Geheimzahl | - | Computer begrüsst den Spieler |
+| 1.1  | Das Programm startet und Computer generiert eine Zufallszahl zwischen und mit 1 bis 100 als Geheimzahl | - | Computer begrüsst den Spieler |
 | 2.1  | Programm fragt: Geben sie eine Zahl ein | eingabe Zahl | Programm sagt ob das Zahl zu hoch oder tief ist. |
 | 6.1  | Spieler hat richtige Zahl erraten und gratuliert. | eingabe richtige Zahl | Gratulation. Sie haben den richgtige Zahl erraten. |
 | 7.1  | Wenn die Geheimzahl richitg erraten wurde, zählt anzahl Versuche. | - |  Gratulation. Sie haben den richgtige Zahl erraten. Ihre Anzahl versuche: ... |
