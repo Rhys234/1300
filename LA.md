@@ -47,7 +47,7 @@ Der Spieler muss Zahlen erraten, der Computer als zufällige Zahl gespeichert ha
 
 | AP-№ | Frist | Beschreibung | Zuständig | geplante Zeit | 
 | ---- | ----- | --------- | ------------ | -------------- |
-| 1.A  | 16.08.2023 |Lektion 1 des Codecademy Kurses abschliessen| M.S | 40 min |
+| 1.A  | 16.08.2023 |Lektion 1 des Codecademy Kurses abschliessen| alle | 40 min |
 | 2.A  | 16.08.2023 |Informieren des Projekts | alle | 40 min |
 | 3.A | 16.08.2023 | Mock-up / Aufbau | alle|  20 min |
 | 4.A  | 16.08.2023 | User Stories | alle |  20 min |
