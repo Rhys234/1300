@@ -6,8 +6,8 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 16.08.2023 | 0.0.1   | User Story fertig erstellt.|
-| 30.08.2023 | 0.0.2   | Das Projekt fertig erstellt |
+| 16.08.2023 | 0.0.1   | User Story fertig erstellt. |
+| 30.08.2023 | 0.0.2    | Das Projekt fertig erstellt |
 
 ## 1 Informieren
 
