@@ -6,8 +6,6 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
 | 16.08.2023 | 0.0.1   | User Story fertig erstellt.|
 | 30.08.2023 | 0.0.2   | Das Projekt fertig erstellt |
 
@@ -15,10 +13,8 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
-Der Spieler kann Zahlen erraten, der Computer gespeichert hatte. 
+Der Spieler kann Zahlen erraten, der Computer als zufällige Zahl gespeichert hatte. 
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
 
 ### 1.2 User Stories
 
@@ -35,8 +31,6 @@ Der Spieler kann Zahlen erraten, der Computer gespeichert hatte.
 | 9  | Erweiterungen, die über diese Anforderungen hinausgehen, sind möglich und willkommen.|
 | 10 | Es soll gefragt werden, ob man wieder Spielen will. |
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
-
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
@@ -48,10 +42,6 @@ Der Spieler kann Zahlen erraten, der Computer gespeichert hatte.
 | 8.1  | Das spielt geht weiter.| gebt Buchstaben ein | Sagt, dass die Eingabe nicht gültig ist. |
 | 10.1 | Nach dem richtig erraten des Spiels frag das Programm ob man weiter spielen will | y | Das Spiel beginnt von vorne. |
 | 10.2 | Nach dem richtig erraten des Spiels frag das Programm ob man weiter spielen will | n | Das Program schliesst. |
-
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
-
 
 ## 2 Planen
 
@@ -72,15 +62,11 @@ Der Spieler kann Zahlen erraten, der Computer gespeichert hatte.
 | 12.A  | 06.09.2023 | Portfolioeintrag | jede Einzeln |  120 min |
 
 
-Total: 
+Total: 13
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
-
--
+Wir haben uns entschieden das Spiel auf Englisch zu machen. Das Spiel werden wir mit C# im Visual Studio programmieren. Es sollen Hinweise sowie auch Anzahl Versuche angezeigt werden. 
 
 ## 4 Realisieren
 
@@ -98,10 +84,8 @@ Total:
 | 9.A  | 23.08.2023 | Carina | 20 min | 10 min |
 | 10.A  | 23.08.2023 | Carina | 10 min | 10 min |
 | 11.A  | 30.08.2023 | Sathana | 15 min | 15min |
-| 12.A  | | alle | 120 min |    |
+| 12.A  | | alle | 120 min | 120min |
 
-
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
@@ -117,8 +101,4 @@ Total:
 
 
 Alles funktioniert Tip-Top. Keine Fehlfunktionen. 
-
-## 6 Auswerten
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
 
