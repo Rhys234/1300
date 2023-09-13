@@ -13,7 +13,7 @@
 
 ### 1.1 Ihr Projekt
 
-Der Spieler kann Zahlen erraten, der Computer als zufällige Zahl gespeichert hatte. 
+Der Spieler muss Zahlen erraten, der Computer als zufällige Zahl gespeichert hatte. 
 
 
 ### 1.2 User Stories
