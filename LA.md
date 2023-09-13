@@ -84,7 +84,7 @@ Wir haben uns entschieden das Spiel auf Englisch zu machen. Das Spiel werden wir
 | 9.A  | 23.08.2023 | Carina | 20 min | 10 min |
 | 10.A  | 23.08.2023 | Carina | 10 min | 10 min |
 | 11.A  | 30.08.2023 | Sathana | 15 min | 15min |
-| 12.A  | | alle | 120 min | 120min |
+| 12.A  | 06.09.2023 | alle | 120 min | - |
 
 
 ## 5 Kontrollieren
