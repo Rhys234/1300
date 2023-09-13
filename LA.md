@@ -1,8 +1,8 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍️ Sathana Suganthasri und Carina Sutter
+
+Sathana Suganthasri und Carina Sutter
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -36,12 +36,12 @@ Der Spieler muss Zahlen erraten, der Computer als zufällige Zahl gespeichert ha
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Das Programm startet und Computer generiert eine Zufallszahl zwischen und mit 1 bis 100 als Geheimzahl | - | Computer begrüsst den Spieler |
-| 2.1  | Programm fragt: Geben sie eine Zahl ein | eingabe Zahl | Programm sagt ob das Zahl zu hoch oder tief ist. |
-| 6.1  | Spieler hat richtige Zahl erraten und gratuliert. | eingabe richtige Zahl | Gratulation. Sie haben den richgtige Zahl erraten. |
-| 7.1  | Wenn die Geheimzahl richitg erraten wurde, zählt anzahl Versuche. | - |  Gratulation. Sie haben den richgtige Zahl erraten. Ihre Anzahl versuche: ... |
+| 2.1  | Programm fragt: Geben sie eine Zahl ein | Eingabe Zahl | Programm sagt ob das Zahl zu hoch oder tief ist. |
+| 6.1  | Spieler hat richtige Zahl erraten und gratuliert. | Eingabe richtige Zahl | Gratulation. Sie haben die richtige Zahl erraten. |
+| 7.1  | Wenn die Geheimzahl richtg erraten wurde, zählt aÂnzahl Versuche. | - |  Gratulation. Sie haben den richgtige Zahl erraten. Ihre Anzahl versuche: ... |
 | 8.1  | Das spielt geht weiter.| gebt Buchstaben ein | Sagt, dass die Eingabe nicht gültig ist. |
-| 10.1 | Nach dem richtig erraten des Spiels frag das Programm ob man weiter spielen will | y | Das Spiel beginnt von vorne. |
-| 10.2 | Nach dem richtig erraten des Spiels frag das Programm ob man weiter spielen will | n | Das Program schliesst. |
+| 10.1 | Nach dem richtig erraten des Spiels frag das Programm, ob man weiter spielen will | y | Das Spiel beginnt von vorne. |
+| 10.2 | Nach dem richtig erraten des Spiels frag das Programm, ob man weiter spielen will | n | Das Programm schliesst. |
 
 ## 2 Planen
 
@@ -49,11 +49,11 @@ Der Spieler muss Zahlen erraten, der Computer als zufällige Zahl gespeichert ha
 | ---- | ----- | --------- | ------------ | -------------- |
 | 1.A  | 16.08.2023 |Lektion 1 des Codecademy Kurses abschliessen| M.S | 40 min |
 | 2.A  | 16.08.2023 |Informieren des Projekts | alle | 40 min |
-| 3.A | 16.08.2023 | Mock-up / aufbau | alle|  20 min |
-| 4.A  | 16.08.2023 | user stories | alle |  20 min |
+| 3.A | 16.08.2023 | Mock-up / Aufbau | alle|  20 min |
+| 4.A  | 16.08.2023 | User Stories | alle |  20 min |
 | 5.A  | 23.08.2023 | Zufallszahl generieren| Carina |  20 min |
 | 6.A  | 23.08.2023 | If Else Clause erstellen| Sathana | 30 min |
-| 6.B  | 23.08.2023 | speichern des eingabe Spielers| Sathana | 15 min |
+| 6.B  | 23.08.2023 | speichern des Eingabe Spielers| Sathana | 15 min |
 | 7.A  | 23.08.2023 | Try Catch | Carina | 20 min |
 | 8.A  | 23.08.2023 | Code für damit man wieder spielen kann| Sathana | 15 min |
 | 9.A  | 23.08.2023 | Anzahl Versuche generieren| Carina | 20 min |
@@ -100,5 +100,5 @@ Wir haben uns entschieden das Spiel auf Englisch zu machen. Das Spiel werden wir
 | 10.1  | 30.08.2023 | OK | Sathana |
 
 
-Alles funktioniert Tip-Top. Keine Fehlfunktionen. 
+Das Spiel funktioniert fehlerfrei. 
 
