@@ -28,7 +28,7 @@ Der Spieler muss Zahlen erraten, der Computer als zufällige Zahl gespeichert ha
 | 6  | Die Geheimzahl wurde erraten.|
 | 7  | Wenn die Geheimzahl erraten wurde, soll die Anzahl der Rateversuche ausgegeben werden.|
 | 8  | Das Programm soll mit Fehleingaben umgehen oder sie vermeiden können.|
-| 9  | Erweiterungen, die über diese Anforderungen hinausgehen, sind möglich und willkommen.|
+| 9  | Es muss Farben haben.|
 | 10 | Es soll gefragt werden, ob man wieder Spielen will. |
 
 ### 1.3 Testfälle
@@ -37,10 +37,10 @@ Der Spieler muss Zahlen erraten, der Computer als zufällige Zahl gespeichert ha
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Das Programm startet und Computer generiert eine Zufallszahl zwischen und mit 1 bis 100 als Geheimzahl | - | Computer begrüsst den Spieler |
 | 2.1  | Programm fragt: Geben sie eine Zahl ein | Eingabe Zahl | Programm sagt ob das Zahl zu hoch oder tief ist. |
-| 6.1  | Spieler hat richtige Zahl erraten und gratuliert. | Eingabe richtige Zahl | Gratulation. Sie haben die richtige Zahl erraten. |
-| 7.1  | Wenn die Geheimzahl richtg erraten wurde, zählt aÂnzahl Versuche. | - |  Gratulation. Sie haben den richgtige Zahl erraten. Ihre Anzahl versuche: ... |
-| 8.1  | Das spielt geht weiter.| gebt Buchstaben ein | Sagt, dass die Eingabe nicht gültig ist. |
+| 6.1  | - | Eingabe richtige Zahl | Gratulation. Sie haben die richtige Zahl erraten. |
+| 7.1  | Wenn die Geheimzahl richtg erraten wurde, zählt Anzahl Versuche. | Eingabe richtige Zahl |  Gratulation. Sie haben den richgtige Zahl erraten. Ihre Anzahl versuche: ... |
 | 10.1 | Nach dem richtig erraten des Spiels frag das Programm, ob man weiter spielen will | y | Das Spiel beginnt von vorne. |
+| 8.1  | Programm fragt: Geben sie eine Zahl ein| Eingabe Buchstaben  | die Eingabe nicht gültig ist und das Programm schliesst.|
 | 10.2 | Nach dem richtig erraten des Spiels frag das Programm, ob man weiter spielen will | n | Das Programm schliesst. |
 
 ## 2 Planen
@@ -89,6 +89,7 @@ Wir haben uns entschieden das Spiel auf Englisch zu machen. Das Spiel werden wir
 
 ## 5 Kontrollieren
 
+
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
 | 1.1  | 30.08.2023 | OK | Sathana |
@@ -100,5 +101,5 @@ Wir haben uns entschieden das Spiel auf Englisch zu machen. Das Spiel werden wir
 | 10.1  | 30.08.2023 | OK | Sathana |
 
 
-Das Spiel funktioniert fehlerfrei. 
+Das Spiel wurde im HP Windows 11 Pro sowie auch asus vivobook Windows 11 getesten und funktioniert fehlerfrei. 
 
