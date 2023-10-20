@@ -16,7 +16,7 @@ Sathana Suganthasri und Carina Sutter
 Der Spieler muss Zahlen erraten, der Computer als zufällige Zahl gespeichert hatte. 
 
 
-### 1.2 User Stories
+### 1.2 Anforderungen
 
 | US-№ | Beschreibung                       |
 | ---- | ---------------------------------- |
